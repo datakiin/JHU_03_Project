@@ -1,5 +1,5 @@
 # JHU 03 Project
-This is a repository for all code, and associated files written for the Getting and Cleaning Data Coursera course through Johns Hopkins University.
+This is a repository for all code, and associated files written for the Coursera JHU Getting and Cleaning Data course project.
 
 
 Please find all project-related materials in the UCI HAR Dataset directory, however, copies of the important files have been put into this main directory to fulfill the submission requirement.
