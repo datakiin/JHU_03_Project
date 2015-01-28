@@ -10,4 +10,4 @@ Please find all project-related materials in the UCI HAR Dataset directory, howe
 
     In RStudio: setwd("C:\\Users\\yourname\\Documents\\R\\UCI HAR Dataset\\"), followed by: source("run_analysis.R")
 
-    Use data <- read.table("tidy_data_avg.txt") to read the data. It is 180x68 because there are 30 subjects and 6 activities, thus "for each activity and each subject" means 30 * 6 = 180 rows. Note that the provided R script has no assumptions on numbers of records, only on locations of files.
+    Use data <- read.table("tidy_data_avg.txt") to read the tidy data file as per Step 5 of project instructions. 
